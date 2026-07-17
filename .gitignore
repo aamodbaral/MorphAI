@@ -1,0 +1,4 @@
+# Ignore dataset
+data/
+venv/
+external/
