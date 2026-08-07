@@ -1,4 +1,19 @@
-# Ignore dataset
-data/
+# Virtual environments
+.venv/
 venv/
-external/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node / build output
+node_modules/
+dist/
+.vite/
+
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
