@@ -1,8 +1,8 @@
-const MEMBERS = [
-  { name: 'Aditya S.', role: 'Project Lead', email: 'aditya@college.edu', icon: 'fa-user-circle' },
-  { name: 'Priya M.', role: 'AI Engineer', email: 'priya@college.edu', icon: 'fa-user-circle' },
-  { name: 'Rahul K.', role: 'Frontend', email: 'rahul@college.edu', icon: 'fa-user-circle' },
-  { name: 'Dr. Sharma', role: 'Guide', email: 'sharma@college.edu', icon: 'fa-chalkboard-user' },
+const  MEMBERS = [
+  { name: 'Kristi Koju',  email: 'KCE080BCT010', icon: 'fa-user-circle' },
+  { name: 'Aamod Baral', email: 'KCE080BCT025', icon: 'fa-user-circle' },
+  { name: 'Nishana Budha',  email: 'KCE080BCT017', icon: 'fa-user-circle' },
+  { name: 'Reeshav Khyaju',  email: 'KCE080BCT028', icon: 'fa-chalkboard-user' },
 ];
 
 export default function Team() {
