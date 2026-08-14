@@ -2,7 +2,7 @@ const  MEMBERS = [
   { name: 'Kristi Koju',  email: 'KCE080BCT010', icon: 'fa-user-circle' },
   { name: 'Aamod Baral', email: 'KCE080BCT025', icon: 'fa-user-circle' },
   { name: 'Nishana Budha',  email: 'KCE080BCT017', icon: 'fa-user-circle' },
-  { name: 'Reeshav Khyaju',  email: 'KCE080BCT028', icon: 'fa-chalkboard-user' },
+  { name: 'Reeshav Khyaju',  email: 'KCE080BCT028', icon: 'fa-user-circle' },
 ];
 
 export default function Team() {
